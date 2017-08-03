@@ -3,6 +3,8 @@ Pacman AI project for UC Berkeley CS188 - Intro to AI
 
 Can access course [here](http://ai.berkeley.edu/home.html)
 
+This is the latest project of mine that I recently started working on to learn more about the various techniques used in AI. Feel free to clone the project yourself and give it a try! Get started by first switching to the `clean_pacman` branch which is where no project code has been modified. The master branch will have had my latest changes.
+
 ![Pacman](https://raw.githubusercontent.com/bartchr808/PacmanAI/master/Media/pacman_game.gif "Pacman")
 
 ## Setting up Environment
